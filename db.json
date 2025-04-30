@@ -2,7 +2,7 @@
   "kos": [
     {
       "id": "1",
-      "name": "Kos Dahlia",
+      "name": "Kos 1",
       "location": "Jakarta Barat",
       "price": 1200000,
       "type": "Putra",
@@ -18,7 +18,7 @@
     },
     {
       "id": "2",
-      "name": "Kos Mawar",
+      "name": "Kos 2",
       "location": "Jakarta Timur",
       "price": 1800000,
       "type": "Campur",
@@ -39,7 +39,7 @@
     },
     {
       "id": "3",
-      "name": "Kos Anggrek",
+      "name": "Kos 3",
       "location": "Jakarta Utara",
       "price": 2000000,
       "type": "Putri",
@@ -62,7 +62,7 @@
     },
     {
       "id": "4",
-      "name": "Kos Kenanga",
+      "name": "Kos 4",
       "location": "Depok",
       "price": 1300000,
       "type": "Putri",
@@ -83,7 +83,7 @@
     },
     {
       "id": "5",
-      "name": "Kos Melati",
+      "name": "Kos 5",
       "location": "Tangerang",
       "price": 1500000,
       "type": "Campur",
@@ -104,7 +104,7 @@
     },
     {
       "id": "6",
-      "name": "Kos Cempaka",
+      "name": "Kos 6",
       "location": "Bekasi",
       "price": 1700000,
       "type": "Putri",
