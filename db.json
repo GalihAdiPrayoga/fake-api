@@ -13,7 +13,7 @@
         "WiFi",
         "Parkir Motor"
       ],
-      "images": ["/kos-2.jpg", "/kos-3.jpg", "/kos-1.jpg"],
+      "images": ["https://static.mamikos.com/uploads/cache/data/style/2024-02-01/dLSgN3WF-360x480.jpg", "https://static.mamikos.com/uploads/cache/data/style/2024-02-01/ZMzoqTKU-360x480.jpg", "https://static.mamikos.com/uploads/cache/data/style/2024-02-01/IGWvsogR-540x720.jpg"],
       "rules": ["Jam malam 23.00", "Tamu wajib lapor", "Menjaga kebersihan"]
     },
     {
