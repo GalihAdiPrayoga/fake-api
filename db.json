@@ -135,7 +135,7 @@
     "id": "1",
     "name": "Galih",
     "email": "galih@example.com",
-    "password": "galih123",        // tambahkan field password
+    "password": "galih123",       
     "role": "admin",
     "status": "active"
   },
