@@ -131,56 +131,64 @@
     }
   ],
   "users": [
-    {
-      "id": "1",
-      "name": "Galih",
-      "email": "galih@example.com",
-      "role": "admin",
-      "status": "active"
-    },
-    {
-      "id": "2",
-      "name": "Bayu",
-      "email": "bayu@example.com",
-      "role": "admin",
-      "status": "active"
-    },
-    {
-      "id": "3",
-      "name": "Ridho",
-      "email": "ridho@example.com",
-      "role": "admin",
-      "status": "active"
-    },
-    {
-      "id": "4",
-      "name": "Admin User",
-      "email": "admin@example.com",
-      "role": "admin",
-      "status": "active"
-    },
-    {
-      "id": "5",
-      "name": "Sarah Wilson",
-      "email": "sarah@example.com",
-      "role": "user",
-      "status": "active"
-    },
-    {
-      "id": "6",
-      "name": "Michael Brown",
-      "email": "michael@example.com",
-      "role": "user",
-      "status": "active"
-    },
-    {
-      "id": "7",
-      "name": "David Lee",
-      "email": "david@example.com",
-      "role": "user",
-      "status": "active"
-    }
-  ],
+  {
+    "id": "1",
+    "name": "Galih",
+    "email": "galih@example.com",
+    "password": "galih123",        // tambahkan field password
+    "role": "admin",
+    "status": "active"
+  },
+  {
+    "id": "2",
+    "name": "Bayu",
+    "email": "bayu@example.com",
+    "password": "bayu123",
+    "role": "admin",
+    "status": "active"
+  },
+  {
+    "id": "3",
+    "name": "Ridho",
+    "email": "ridho@example.com",
+    "password": "ridho123",
+    "role": "admin",
+    "status": "active"
+  },
+  {
+    "id": "4",
+    "name": "Admin User",
+    "email": "admin@example.com",
+    "password": "admin123",
+    "role": "admin",
+    "status": "active"
+  },
+  {
+    "id": "5",
+    "name": "Sarah Wilson",
+    "email": "sarah@example.com",
+    "password": "sarah123",
+    "role": "user",
+    "status": "active"
+  },
+  {
+    "id": "6",
+    "name": "Michael Brown",
+    "email": "michael@example.com",
+    "password": "michael123",
+    "role": "user",
+    "status": "active"
+  },
+  {
+    "id": "7",
+    "name": "David Lee",
+    "email": "david@example.com",
+    "password": "david123",
+    "role": "user",
+    "status": "active"
+  }
+],
+
   "bookings": [
     {
       "id": "1",
