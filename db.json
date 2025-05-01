@@ -1,4 +1,3 @@
-
 {
   "kos": [
     {
@@ -18,7 +17,8 @@
         "https://static.mamikos.com/uploads/cache/data/style/2024-02-01/dLSgN3WF-360x480.jpg",
         "https://static.mamikos.com/uploads/cache/data/style/2024-02-01/ZMzoqTKU-360x480.jpg"
       ],
-      "rules": ["Jam malam 23.00", "Tamu wajib lapor", "Menjaga kebersihan"]
+      "rules": ["Jam malam 23.00", "Tamu wajib lapor", "Menjaga kebersihan"],
+      "adminId": 1
     },
     {
       "id": "2",
@@ -39,7 +39,8 @@
         "Sistem access card",
         "Tamu wajib registrasi",
         "Tidak boleh membawa hewan"
-      ]
+      ],
+      "adminId": 2
     },
     {
       "id": "3",
@@ -62,7 +63,8 @@
         "Hanya untuk putri",
         "Tamu wajib lapor",
         "Dilarang membawa hewan"
-      ]
+      ],
+      "adminId": 3
     },
     {
       "id": "4",
@@ -83,7 +85,8 @@
         "Jam malam 21.00",
         "Tamu dibatasi sampai jam 20.00",
         "Wajib jaga kebersihan"
-      ]
+      ],
+      "adminId": 4
     },
     {
       "id": "5",
@@ -104,7 +107,8 @@
         "Jam malam 23.00",
         "Tamu wajib lapor",
         "Dilarang merokok dalam kamar"
-      ]
+      ],
+      "adminId": 5
     },
     {
       "id": "6",
@@ -122,47 +126,55 @@
         "Security 24 Jam"
       ],
       "images": ["/kos-13.jpg", "/kos-14.jpg", "/kos-15.jpg"],
-      "rules": ["Jam malam 22.00", "Khusus putri", "Dilarang membawa hewan"]
+      "rules": ["Jam malam 22.00", "Khusus putri", "Dilarang membawa hewan"],
+      "adminId": 6
     }
   ],
   "users": [
     {
       "id": "1",
-      "name": "John Doe",
-      "email": "john@example.com",
-      "role": "user",
+      "name": "Galih",
+      "email": "galih@example.com",
+      "role": "admin",
       "status": "active"
     },
     {
       "id": "2",
-      "name": "Jane Smith",
-      "email": "jane@example.com",
-      "role": "user",
-      "status": "inactive"
+      "name": "Bayu",
+      "email": "bayu@example.com",
+      "role": "admin",
+      "status": "active"
     },
     {
       "id": "3",
+      "name": "Ridho",
+      "email": "ridho@example.com",
+      "role": "admin",
+      "status": "active"
+    },
+    {
+      "id": "4",
       "name": "Admin User",
       "email": "admin@example.com",
       "role": "admin",
       "status": "active"
     },
     {
-      "id": "4",
+      "id": "5",
       "name": "Sarah Wilson",
       "email": "sarah@example.com",
       "role": "user",
       "status": "active"
     },
     {
-      "id": "5",
+      "id": "6",
       "name": "Michael Brown",
       "email": "michael@example.com",
       "role": "user",
       "status": "active"
     },
     {
-      "id": "6",
+      "id": "7",
       "name": "David Lee",
       "email": "david@example.com",
       "role": "user",
