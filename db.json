@@ -34,7 +34,11 @@
         "Laundry",
         "Parkir Mobil"
       ],
-      "images": ["/kos-3.jpg", "/kos-1.jpg", "/kos-2.jpg"],
+      "images": [
+        "https://static.mamikos.com/uploads/cache/data/style/2023-11-16/P3IUOtKe-360x480.jpg",
+        "https://static.mamikos.com/uploads/cache/data/style/2023-11-16/dJd7iATy-540x720.jpg",
+        "https://static.mamikos.com/uploads/cache/data/style/2023-11-16/rS1EsoHD-540x720.jpg"
+      ],
       "rules": [
         "Sistem access card",
         "Tamu wajib registrasi",
@@ -57,7 +61,11 @@
         "Swimming Pool",
         "Laundry"
       ],
-      "images": ["/kos-4.jpg", "/kos-5.jpg", "/kos-6.jpg"],
+      "images": [
+        "https://static.mamikos.com/uploads/cache/data/style/2023-01-10/Xt149mwy-360x480.jpg",
+        "https://static.mamikos.com/uploads/cache/data/style/2023-01-10/3CrY1nMK-540x720.jpg",
+        "https://static.mamikos.com/uploads/cache/data/style/2023-01-10/eKmttqKj-540x720.jpg"
+      ],
       "rules": [
         "Jam malam 22.00",
         "Hanya untuk putri",
@@ -80,13 +88,17 @@
         "Ruang Belajar",
         "Dapur Bersama"
       ],
-      "images": ["/kos-7.jpg", "/kos-8.jpg", "/kos-9.jpg"],
+      "images": [
+        "https://static.mamikos.com/uploads/cache/data/style/2024-09-01/s5Swxock-540x720.jpg",
+        "https://static.mamikos.com/uploads/cache/data/style/2024-10-09/8XKyrl4F.-540x720.jpg",
+        "https://static.mamikos.com/uploads/cache/data/style/2024-09-01/ZoY7SStb-540x720.jpg"
+      ],
       "rules": [
         "Jam malam 21.00",
         "Tamu dibatasi sampai jam 20.00",
         "Wajib jaga kebersihan"
       ],
-      "adminId": 4
+      "adminId": 1
     },
     {
       "id": "5",
@@ -102,13 +114,17 @@
         "Dapur Bersama",
         "Ruang Santai"
       ],
-      "images": ["/kos-10.jpg", "/kos-11.jpg", "/kos-12.jpg"],
+      "images": [
+        "https://static.mamikos.com/uploads/cache/data/style/2023-12-19/rMuJqI2y-360x480.jpg",
+        "https://static.mamikos.com/uploads/cache/data/style/2023-05-16/nvCBJ7PR-540x720.jpg",
+        "https://static.mamikos.com/uploads/cache/data/style/2023-05-16/YxuYfdRJ-540x720.jpg"
+      ],
       "rules": [
         "Jam malam 23.00",
         "Tamu wajib lapor",
         "Dilarang merokok dalam kamar"
       ],
-      "adminId": 5
+      "adminId": 3
     },
     {
       "id": "6",
@@ -125,9 +141,13 @@
         "Taman",
         "Security 24 Jam"
       ],
-      "images": ["/kos-13.jpg", "/kos-14.jpg", "/kos-15.jpg"],
+      "images": [
+        "https://static.mamikos.com/uploads/cache/data/style/2024-07-19/uv3Ys2kh-540x720.jpg",
+        "https://static.mamikos.com/uploads/cache/data/style/2023-06-22/hHuP2S4G-540x720.jpg",
+        "https://static.mamikos.com/uploads/cache/data/style/2024-07-19/rnUPM8XQ-540x720.jpg"
+      ],
       "rules": ["Jam malam 22.00", "Khusus putri", "Dilarang membawa hewan"],
-      "adminId": 6
+      "adminId": 2
     }
   ],
   "users": [
