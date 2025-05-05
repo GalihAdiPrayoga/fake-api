@@ -18,7 +18,7 @@
         "https://static.mamikos.com/uploads/cache/data/style/2024-02-01/ZMzoqTKU-360x480.jpg"
       ],
       "rules": ["Jam malam 23.00", "Tamu wajib lapor", "Menjaga kebersihan"],
-      "adminId": 1
+      "pemilikId": 1
     },
     {
       "id": "2",
@@ -44,7 +44,7 @@
         "Tamu wajib registrasi",
         "Tidak boleh membawa hewan"
       ],
-      "adminId": 2
+      "pemilikId": 2
     },
     {
       "id": "3",
@@ -72,7 +72,7 @@
         "Tamu wajib lapor",
         "Dilarang membawa hewan"
       ],
-      "adminId": 3
+      "pemilikId": 3
     },
     {
       "id": "4",
@@ -98,7 +98,7 @@
         "Tamu dibatasi sampai jam 20.00",
         "Wajib jaga kebersihan"
       ],
-      "adminId": 1
+      "pemilikId": 1
     },
     {
       "id": "5",
@@ -124,7 +124,7 @@
         "Tamu wajib lapor",
         "Dilarang merokok dalam kamar"
       ],
-      "adminId": 3
+      "pemilikId": 3
     },
     {
       "id": "6",
@@ -147,41 +147,41 @@
         "https://static.mamikos.com/uploads/cache/data/style/2024-07-19/rnUPM8XQ-540x720.jpg"
       ],
       "rules": ["Jam malam 22.00", "Khusus putri", "Dilarang membawa hewan"],
-      "adminId": 2
+      "pemilikId": 2
     }
   ],
-   "users": [
+  "users": [
     {
       "id": "1",
       "name": "Galih",
-      "email": "galih@example.com",
+      "email": "galih@gmail.com",
       "password": "galih123",
-      "role": "admin",
+      "role": "pemilik",
       "status": "active",
       "phone": "62895388927053"
     },
     {
       "id": "2",
       "name": "Bayu",
-      "email": "bayu@example.com",
+      "email": "bayu@gmail.com",
       "password": "bayu123",
-      "role": "admin",
+      "role": "pemilik",
       "status": "active",
       "phone": "6285895753976"
     },
     {
       "id": "3",
       "name": "Ridho",
-      "email": "ridho@example.com",
+      "email": "ridho@gmail.com",
       "password": "ridho123",
-      "role": "admin",
+      "role": "pemilik",
       "status": "active",
       "phone": "6281916434457"
     },
     {
       "id": "4",
       "name": "Admin User",
-      "email": "admin@example.com",
+      "email": "admin@gmail.com",
       "password": "admin123",
       "role": "admin",
       "status": "active",
@@ -190,7 +190,7 @@
     {
       "id": "5",
       "name": "Sarah Wilson",
-      "email": "sarah@example.com",
+      "email": "sarah@gmail.com",
       "password": "sarah123",
       "role": "user",
       "status": "active",
@@ -199,7 +199,7 @@
     {
       "id": "6",
       "name": "Michael Brown",
-      "email": "michael@example.com",
+      "email": "michael@gmail.com",
       "password": "michael123",
       "role": "user",
       "status": "active",
@@ -208,7 +208,7 @@
     {
       "id": "7",
       "name": "David Lee",
-      "email": "david@example.com",
+      "email": "david@gmail.com",
       "password": "david123",
       "role": "user",
       "status": "active",
