@@ -13,10 +13,14 @@
       "price": 35000,
       "language": "English",
       "available": true,
-      "comingSoon": false,
-      "schedule": ["Friday", "Saturday", "Sunday"],
       "trailerUrl": "https://www.youtube.com/watch?v=TcMBFSGVi1c",
-      "reviews": []
+      "reviews": [
+        {
+          "user": "budi123",
+          "comment": "Final epic!",
+          "rating": 9
+        }
+      ]
     },
     {
       "id": 2,
@@ -31,8 +35,6 @@
       "price": 35000,
       "language": "English",
       "available": true,
-      "comingSoon": false,
-      "schedule": ["Monday", "Tuesday"],
       "trailerUrl": "https://www.youtube.com/watch?v=JfVOs4VSpmA",
       "reviews": []
     },
@@ -49,8 +51,6 @@
       "price": 35000,
       "language": "English",
       "available": true,
-      "comingSoon": false,
-      "schedule": ["Wednesday", "Friday"],
       "trailerUrl": "https://www.youtube.com/watch?v=zAGVQLHvwOY",
       "reviews": []
     },
@@ -67,8 +67,6 @@
       "price": 35000,
       "language": "English",
       "available": false,
-      "comingSoon": true,
-      "schedule": [],
       "trailerUrl": "https://www.youtube.com/watch?v=mqqft2x_Aa4",
       "reviews": []
     },
@@ -85,8 +83,6 @@
       "price": 35000,
       "language": "English",
       "available": true,
-      "comingSoon": false,
-      "schedule": ["Thursday", "Friday", "Saturday"],
       "trailerUrl": "https://www.youtube.com/watch?v=n9xhJrPXop4",
       "reviews": []
     },
@@ -103,8 +99,6 @@
       "price": 35000,
       "language": "English",
       "available": true,
-      "comingSoon": false,
-      "schedule": ["Monday", "Wednesday", "Friday"],
       "trailerUrl": "https://www.youtube.com/watch?v=YoHD9XEInc0",
       "reviews": []
     },
@@ -121,158 +115,15 @@
       "price": 35000,
       "language": "English",
       "available": true,
-      "comingSoon": false,
-      "schedule": ["Sunday", "Tuesday", "Thursday"],
       "trailerUrl": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
-      "reviews": []
-    },
-    {
-      "id": 8,
-      "title": "Deadpool 3",
-      "desc": "Deadpool bergabung dengan multiverse Marvel.",
-      "img": "https://image.tmdb.org/t/p/w500/deadpool.jpg",
-      "rating": null,
-      "duration": "TBA",
-      "genre": ["Action", "Comedy"],
-      "releaseDate": "2025-11-08",
-      "director": "Shawn Levy",
-      "price": 35000,
-      "language": "English",
-      "available": false,
-      "comingSoon": true,
-      "schedule": [],
-      "trailerUrl": "https://www.youtube.com/watch?v=deadpool3",
-      "reviews": []
-    },
-    {
-      "id": 9,
-      "title": "The Flash",
-      "desc": "Flash melintasi waktu untuk menyelamatkan dunia.",
-      "img": "https://image.tmdb.org/t/p/w500/theflash.jpg",
-      "rating": 7.2,
-      "duration": "2h 24m",
-      "genre": ["Action", "Adventure"],
-      "releaseDate": "2023-06-16",
-      "director": "Andy Muschietti",
-      "price": 35000,
-      "language": "English",
-      "available": true,
-      "comingSoon": false,
-      "schedule": ["Wednesday", "Friday", "Saturday"],
-      "trailerUrl": "https://www.youtube.com/watch?v=hebWYacbdvc",
-      "reviews": []
-    },
-    {
-      "id": 10,
-      "title": "Guardians of the Galaxy Vol. 3",
-      "desc": "Petualangan terakhir Guardians.",
-      "img": "https://image.tmdb.org/t/p/w500/guardians3.jpg",
-      "rating": 7.9,
-      "duration": "2h 30m",
-      "genre": ["Action", "Adventure", "Comedy"],
-      "releaseDate": "2023-05-05",
-      "director": "James Gunn",
-      "price": 35000,
-      "language": "English",
-      "available": true,
-      "comingSoon": false,
-      "schedule": ["Monday", "Thursday"],
-      "trailerUrl": "https://www.youtube.com/watch?v=u3V5KDHRQvk",
-      "reviews": []
-    },
-    {
-      "id": 11,
-      "title": "The Matrix Resurrections",
-      "desc": "Neo kembali ke Matrix.",
-      "img": "https://image.tmdb.org/t/p/w500/matrix4.jpg",
-      "rating": 6.5,
-      "duration": "2h 28m",
-      "genre": ["Sci-Fi", "Action"],
-      "releaseDate": "2021-12-22",
-      "director": "Lana Wachowski",
-      "price": 35000,
-      "language": "English",
-      "available": true,
-      "comingSoon": false,
-      "schedule": ["Tuesday", "Thursday"],
-      "trailerUrl": "https://www.youtube.com/watch?v=9ix7TUGVYIo",
-      "reviews": []
-    },
-    {
-      "id": 12,
-      "title": "Oppenheimer",
-      "desc": "Kisah pembuat bom atom pertama.",
-      "img": "https://image.tmdb.org/t/p/w500/oppenheimer.jpg",
-      "rating": 8.7,
-      "duration": "3h 0m",
-      "genre": ["Biography", "Drama", "History"],
-      "releaseDate": "2023-07-21",
-      "director": "Christopher Nolan",
-      "price": 35000,
-      "language": "English",
-      "available": true,
-      "comingSoon": false,
-      "schedule": ["Saturday", "Sunday"],
-      "trailerUrl": "https://www.youtube.com/watch?v=bK6ldnjE3Y0",
-      "reviews": []
-    },
-    {
-      "id": 13,
-      "title": "Wonka",
-      "desc": "Asal-usul Willy Wonka sang pembuat cokelat.",
-      "img": "https://image.tmdb.org/t/p/w500/wonka.jpg",
-      "rating": 7.5,
-      "duration": "1h 56m",
-      "genre": ["Family", "Fantasy", "Comedy"],
-      "releaseDate": "2023-12-15",
-      "director": "Paul King",
-      "price": 35000,
-      "language": "English",
-      "available": true,
-      "comingSoon": false,
-      "schedule": ["Saturday", "Sunday"],
-      "trailerUrl": "https://www.youtube.com/watch?v=otNh9bTjXWg",
-      "reviews": []
-    },
-    {
-      "id": 14,
-      "title": "Elemental",
-      "desc": "Elemen api dan air saling bertemu di kota Elemental.",
-      "img": "https://image.tmdb.org/t/p/w500/elemental.jpg",
-      "rating": 7.0,
-      "duration": "1h 49m",
-      "genre": ["Animation", "Family", "Romance"],
-      "releaseDate": "2023-06-16",
-      "director": "Peter Sohn",
-      "price": 35000,
-      "language": "English",
-      "available": true,
-      "comingSoon": false,
-      "schedule": ["Friday", "Sunday"],
-      "trailerUrl": "https://www.youtube.com/watch?v=hXzcyx9V0xw",
-      "reviews": []
-    },
-    {
-      "id": 15,
-      "title": "Inside Out 2",
-      "desc": "Kembalinya Joy, Sadness, dan emosi baru.",
-      "img": "https://image.tmdb.org/t/p/w500/insideout2.jpg",
-      "rating": null,
-      "duration": "TBA",
-      "genre": ["Animation", "Family", "Fantasy"],
-      "releaseDate": "2025-06-15",
-      "director": "Kelsey Mann",
-      "price": 35000,
-      "language": "English",
-      "available": false,
-      "comingSoon": true,
-      "schedule": [],
-      "trailerUrl": "https://www.youtube.com/watch?v=leWxrnKhk-I",
-      "reviews": []
+      "reviews": [
+        {
+          "user": "andi123",
+          "comment": "Mindblowing!",
+          "rating": 9
+        }
+      ]
     }
-  ]
-}
-
   ],
   "users": [
     {
