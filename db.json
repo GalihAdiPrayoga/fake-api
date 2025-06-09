@@ -1,303 +1,150 @@
 {
-  "kos": [
+  "movies": [
     {
-      "id": "1",
-      "name": "Kos 1",
-      "location": "Jakarta Barat",
-      "price": 1200000,
-      "type": "Putri",
-      "description": "Kos khusus putra dengan lingkungan yang tenang dan aman.",
-      "facilities": [
-        "Kipas Angin",
-        "Kamar Mandi Dalam",
-        "WiFi",
-        "Parkir Motor"
-      ],
-      "images": [
-        "https://static.mamikos.com/uploads/cache/data/style/2024-02-01/dLSgN3WF-360x480.jpg",
-        "https://static.mamikos.com/uploads/cache/data/style/2024-02-01/ZMzoqTKU-360x480.jpg"
-      ],
-      "rules": ["Jam malam 23.00", "Tamu wajib lapor", "Menjaga kebersihan"],
-      "pemilikId": 1
+      "id": 1,
+      "title": "Avengers: Endgame",
+      "desc": "Para Avengers bersatu untuk mengalahkan Thanos.",
+      "img": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "rating": 8.4,
+      "duration": "3h 1m",
+      "genre": ["Action", "Adventure", "Sci-Fi"],
+      "releaseDate": "2019-04-26",
+      "director": "Anthony Russo, Joe Russo",
+      "price": 35000,
+      "language": "English",
+      "available": true,
+      "trailerUrl": "https://www.youtube.com/watch?v=TcMBFSGVi1c",
+      "reviews": [
+        {
+          "user": "budi123",
+          "comment": "Final epic!",
+          "rating": 9
+        }
+      ]
     },
     {
-      "id": "2",
-      "name": "Kos 2",
-      "location": "Jakarta Timur",
-      "price": 1800000,
-      "type": "Campur",
-      "description": "Kos exclusive dengan fasilitas premium dan keamanan 24 jam.",
-      "facilities": [
-        "AC",
-        "Water Heater",
-        "WiFi Fiber",
-        "Laundry",
-        "Parkir Mobil"
-      ],
-      "images": [
-        "https://static.mamikos.com/uploads/cache/data/style/2023-11-16/P3IUOtKe-360x480.jpg",
-        "https://static.mamikos.com/uploads/cache/data/style/2023-11-16/dJd7iATy-540x720.jpg",
-        "https://static.mamikos.com/uploads/cache/data/style/2023-11-16/rS1EsoHD-540x720.jpg"
-      ],
-      "rules": [
-        "Sistem access card",
-        "Tamu wajib registrasi",
-        "Tidak boleh membawa hewan"
-      ],
-      "pemilikId": 2
+      "id": 2,
+      "title": "Spider-Man: No Way Home",
+      "desc": "Spider-Man menghadapi tantangan multiverse.",
+      "img": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "rating": 8.2,
+      "duration": "2h 28m",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "releaseDate": "2021-12-17",
+      "director": "Jon Watts",
+      "price": 35000,
+      "language": "English",
+      "available": true,
+      "trailerUrl": "https://www.youtube.com/watch?v=JfVOs4VSpmA",
+      "reviews": []
     },
     {
-      "id": "3",
-      "name": "Kos 3",
-      "location": "Jakarta Utara",
-      "price": 2000000,
-      "type": "Putri",
-      "description": "Kos putri mewah dengan keamanan 24 jam dan fasilitas premium.",
-      "facilities": [
-        "AC",
-        "Water Heater",
-        "Smart TV",
-        "Gym",
-        "Swimming Pool",
-        "Laundry"
-      ],
-      "images": [
-        "https://static.mamikos.com/uploads/cache/data/style/2023-01-10/Xt149mwy-360x480.jpg",
-        "https://static.mamikos.com/uploads/cache/data/style/2023-01-10/3CrY1nMK-540x720.jpg",
-        "https://static.mamikos.com/uploads/cache/data/style/2023-01-10/eKmttqKj-540x720.jpg"
-      ],
-      "rules": [
-        "Jam malam 22.00",
-        "Hanya untuk putri",
-        "Tamu wajib lapor",
-        "Dilarang membawa hewan"
-      ],
-      "pemilikId": 3
+      "id": 3,
+      "title": "Joker",
+      "desc": "Kisah kelam di balik sosok Joker.",
+      "img": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "rating": 8.5,
+      "duration": "2h 2m",
+      "genre": ["Crime", "Drama", "Thriller"],
+      "releaseDate": "2019-10-04",
+      "director": "Todd Phillips",
+      "price": 35000,
+      "language": "English",
+      "available": true,
+      "trailerUrl": "https://www.youtube.com/watch?v=zAGVQLHvwOY",
+      "reviews": []
     },
     {
-      "id": "4",
-      "name": "Kos 4",
-      "location": "Depok",
-      "price": 1300000,
-      "type": "Putri",
-      "description": "Kos putri dekat Universitas Indonesia, lingkungan kondusif untuk belajar.",
-      "facilities": [
-        "AC",
-        "Kamar Mandi Dalam",
-        "WiFi",
-        "Ruang Belajar",
-        "Dapur Bersama"
-      ],
-      "images": [
-        "https://static.mamikos.com/uploads/cache/data/style/2024-09-01/s5Swxock-540x720.jpg",
-        "https://static.mamikos.com/uploads/cache/data/style/2024-10-09/8XKyrl4F.-540x720.jpg",
-        "https://static.mamikos.com/uploads/cache/data/style/2024-09-01/ZoY7SStb-540x720.jpg"
-      ],
-      "rules": [
-        "Jam malam 21.00",
-        "Tamu dibatasi sampai jam 20.00",
-        "Wajib jaga kebersihan"
-      ],
-      "pemilikId": 1
+      "id": 4,
+      "title": "The Batman",
+      "desc": "Batman menyelidiki korupsi di Gotham City.",
+      "img": "https://image.tmdb.org/t/p/w500/3VFI3zbuNhXzx7dIbYdmvBLekyB.jpg",
+      "rating": 8.0,
+      "duration": "2h 56m",
+      "genre": ["Action", "Crime", "Drama"],
+      "releaseDate": "2022-03-04",
+      "director": "Matt Reeves",
+      "price": 35000,
+      "language": "English",
+      "available": false,
+      "trailerUrl": "https://www.youtube.com/watch?v=mqqft2x_Aa4",
+      "reviews": []
     },
     {
-      "id": "5",
-      "name": "Kos 5",
-      "location": "Tangerang",
-      "price": 1500000,
-      "type": "Campur",
-      "description": "Kos modern dengan lokasi strategis dekat pusat perbelanjaan.",
-      "facilities": [
-        "AC",
-        "Kamar Mandi Dalam",
-        "WiFi Fiber",
-        "Dapur Bersama",
-        "Ruang Santai"
-      ],
-      "images": [
-        "https://static.mamikos.com/uploads/cache/data/style/2023-12-19/rMuJqI2y-360x480.jpg",
-        "https://static.mamikos.com/uploads/cache/data/style/2023-05-16/nvCBJ7PR-540x720.jpg",
-        "https://static.mamikos.com/uploads/cache/data/style/2023-05-16/YxuYfdRJ-540x720.jpg"
-      ],
-      "rules": [
-        "Jam malam 23.00",
-        "Tamu wajib lapor",
-        "Dilarang merokok dalam kamar"
-      ],
-      "pemilikId": 3
+      "id": 5,
+      "title": "Dune",
+      "desc": "Petualangan epik di planet Arrakis.",
+      "img": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+      "rating": 8.1,
+      "duration": "2h 35m",
+      "genre": ["Adventure", "Sci-Fi", "Drama"],
+      "releaseDate": "2021-10-22",
+      "director": "Denis Villeneuve",
+      "price": 35000,
+      "language": "English",
+      "available": true,
+      "trailerUrl": "https://www.youtube.com/watch?v=n9xhJrPXop4",
+      "reviews": []
     },
     {
-      "id": "6",
-      "name": "Kos 6",
-      "location": "Bekasi",
-      "price": 1700000,
-      "type": "Putri",
-      "description": "Kos putri eksklusif dengan fasilitas lengkap dan lingkungan asri.",
-      "facilities": [
-        "AC",
-        "Water Heater",
-        "WiFi Fiber",
-        "Ruang Tamu",
-        "Taman",
-        "Security 24 Jam"
-      ],
-      "images": [
-        "https://static.mamikos.com/uploads/cache/data/style/2024-07-19/uv3Ys2kh-540x720.jpg",
-        "https://static.mamikos.com/uploads/cache/data/style/2023-06-22/hHuP2S4G-540x720.jpg",
-        "https://static.mamikos.com/uploads/cache/data/style/2024-07-19/rnUPM8XQ-540x720.jpg"
-      ],
-      "rules": ["Jam malam 22.00", "Khusus putri", "Dilarang membawa hewan"],
-      "pemilikId": 2
+      "id": 6,
+      "title": "Inception",
+      "desc": "Pencurian rahasia melalui alam mimpi.",
+      "img": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+      "rating": 8.8,
+      "duration": "2h 28m",
+      "genre": ["Action", "Sci-Fi", "Thriller"],
+      "releaseDate": "2010-07-16",
+      "director": "Christopher Nolan",
+      "price": 35000,
+      "language": "English",
+      "available": true,
+      "trailerUrl": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+      "reviews": []
+    },
+    {
+      "id": 7,
+      "title": "Interstellar",
+      "desc": "Misi luar angkasa demi menyelamatkan umat manusia.",
+      "img": "https://image.tmdb.org/t/p/w500/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+      "rating": 8.6,
+      "duration": "2h 49m",
+      "genre": ["Adventure", "Drama", "Sci-Fi"],
+      "releaseDate": "2014-11-07",
+      "director": "Christopher Nolan",
+      "price": 35000,
+      "language": "English",
+      "available": true,
+      "trailerUrl": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
+      "reviews": [
+        {
+          "user": "andi123",
+          "comment": "Mindblowing!",
+          "rating": 9
+        }
+      ]
     }
   ],
   "users": [
     {
-      "id": "1",
-      "name": "Galih",
-      "email": "galih@gmail.com",
-      "password": "galih123",
-      "role": "pemilik",
-      "status": "active",
-      "phone": "62895388927053"
+      "id": 1,
+      "username": "admin",
+      "password": "123456"
     },
     {
-      "id": "2",
-      "name": "Bayu",
-      "email": "bayu@gmail.com",
-      "password": "bayu123",
-      "role": "pemilik",
-      "status": "active",
-      "phone": "6285895753976"
-    },
-    {
-      "id": "3",
-      "name": "Ridho",
-      "email": "ridho@gmail.com",
-      "password": "ridho123",
-      "role": "pemilik",
-      "status": "active",
-      "phone": "6281916434457"
-    },
-    {
-      "id": "4",
-      "name": "Admin User",
-      "email": "admin@gmail.com",
-      "password": "admin123",
-      "role": "admin",
-      "status": "active",
-      "phone": "6281234567893"
-    },
-    {
-      "id": "5",
-      "name": "Sarah Wilson",
-      "email": "sarah@gmail.com",
-      "password": "sarah123",
-      "role": "user",
-      "status": "active",
-      "phone": "6281234567894"
-    },
-    {
-      "id": "6",
-      "name": "Michael Brown",
-      "email": "michael@gmail.com",
-      "password": "michael123",
-      "role": "user",
-      "status": "active",
-      "phone": "6281234567895"
-    },
-    {
-      "id": "7",
-      "name": "David Lee",
-      "email": "david@gmail.com",
-      "password": "david123",
-      "role": "user",
-      "status": "active",
-      "phone": "6281234567896"
+      "id": 2,
+      "username": "jane",
+      "password": "abc123"
     }
   ],
-
-  "bookings": [
+  "orders": [
     {
-      "id": "1",
-      "kosId": 1,
-      "userId": 1,
-      "startDate": "2024-02-01",
-      "duration": 3,
-      "status": "pending",
-      "totalPrice": 4500000
-    },
-    {
-      "id": "2",
-      "kosId": 2,
+      "id": 1,
       "userId": 2,
-      "startDate": "2024-02-15",
-      "duration": 6,
-      "status": "confirmed",
-      "totalPrice": 7200000
-    },
-    {
-      "id": "3",
-      "kosId": 3,
-      "userId": 4,
-      "startDate": "2024-03-01",
-      "duration": 12,
-      "status": "confirmed",
-      "totalPrice": 21600000
-    },
-    {
-      "id": "4",
-      "kosId": 4,
-      "userId": 5,
-      "startDate": "2024-02-10",
-      "duration": 6,
-      "status": "pending",
-      "totalPrice": 12000000
-    },
-    {
-      "id": "5",
-      "kosId": 5,
-      "userId": 6,
-      "startDate": "2024-03-15",
-      "duration": 6,
-      "status": "confirmed",
-      "totalPrice": 7800000
-    }
-  ],
-  "payments": [
-    {
-      "id": "1",
-      "bookingId": 1,
-      "amount": 4500000,
-      "status": "pending",
-      "date": "2024-01-28"
-    },
-    {
-      "id": "2",
-      "bookingId": 2,
-      "amount": 7200000,
-      "status": "completed",
-      "date": "2024-02-10"
-    },
-    {
-      "id": "3",
-      "bookingId": 3,
-      "amount": 21600000,
-      "status": "completed",
-      "date": "2024-02-25"
-    },
-    {
-      "id": "4",
-      "bookingId": 4,
-      "amount": 12000000,
-      "status": "pending",
-      "date": "2024-02-05"
-    },
-    {
-      "id": "5",
-      "bookingId": 5,
-      "amount": 7800000,
-      "status": "completed",
-      "date": "2024-03-10"
+      "movieId": 6,
+      "quantity": 2,
+      "total": 70000,
+      "orderDate": "2025-06-09"
     }
   ]
 }
