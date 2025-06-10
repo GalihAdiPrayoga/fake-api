@@ -7,27 +7,15 @@
       "img": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
       "rating": 8.4,
       "duration": "3h 1m",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
+      "genre": ["Action", "Adventure", "Sci-Fi"],
       "releaseDate": "2019-04-26",
       "director": "Anthony Russo, Joe Russo",
       "price": 35000,
       "language": "English",
       "available": true,
       "trailerUrl": "https://www.youtube.com/watch?v=TcMBFSGVi1c",
-      "schedule": [
-        "Friday",
-        "Saturday",
-        "Sunday"
-      ],
-      "showtimes": [
-        "13:00",
-        "16:00",
-        "19:00"
-      ],
+      "schedule": ["Friday", "Saturday", "Sunday"],
+      "showtimes": ["13:00", "16:00", "19:00"],
       "reviews": [
         {
           "user": "budi123",
@@ -43,27 +31,15 @@
       "img": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
       "rating": 8.2,
       "duration": "2h 28m",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
+      "genre": ["Action", "Adventure", "Fantasy"],
       "releaseDate": "2021-12-17",
       "director": "Jon Watts",
       "price": 35000,
       "language": "English",
       "available": true,
       "trailerUrl": "https://www.youtube.com/watch?v=JfVOs4VSpmA",
-      "schedule": [
-        "Monday",
-        "Wednesday",
-        "Friday"
-      ],
-      "showtimes": [
-        "14:00",
-        "17:00",
-        "20:00"
-      ],
+      "schedule": ["Monday", "Wednesday", "Friday"],
+      "showtimes": ["14:00", "17:00", "20:00"],
       "reviews": []
     },
     {
@@ -73,27 +49,15 @@
       "img": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
       "rating": 8.5,
       "duration": "2h 2m",
-      "genre": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
+      "genre": ["Crime", "Drama", "Thriller"],
       "releaseDate": "2019-10-04",
       "director": "Todd Phillips",
       "price": 35000,
       "language": "English",
       "available": true,
       "trailerUrl": "https://www.youtube.com/watch?v=zAGVQLHvwOY",
-      "schedule": [
-        "Tuesday",
-        "Thursday",
-        "Saturday"
-      ],
-      "showtimes": [
-        "15:00",
-        "18:00",
-        "21:00"
-      ],
+      "schedule": ["Tuesday", "Thursday", "Saturday"],
+      "showtimes": ["15:00", "18:00", "21:00"],
       "reviews": []
     },
     {
@@ -103,20 +67,14 @@
       "img": "https://image.tmdb.org/t/p/w500/3VFI3zbuNhXzx7dIbYdmvBLekyB.jpg",
       "rating": 8.0,
       "duration": "2h 56m",
-      "genre": [
-        "Action",
-        "Crime",
-        "Drama"
-      ],
+      "genre": ["Action", "Crime", "Drama"],
       "releaseDate": "2022-03-04",
       "director": "Matt Reeves",
       "price": 35000,
       "language": "English",
       "available": false,
       "trailerUrl": "https://www.youtube.com/watch?v=mqqft2x_Aa4",
-      "schedule": [
-        "Coming Soon"
-      ],
+      "schedule": ["Coming Soon"],
       "showtimes": [],
       "reviews": []
     },
@@ -127,27 +85,15 @@
       "img": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
       "rating": 8.1,
       "duration": "2h 35m",
-      "genre": [
-        "Adventure",
-        "Sci-Fi",
-        "Drama"
-      ],
+      "genre": ["Adventure", "Sci-Fi", "Drama"],
       "releaseDate": "2021-10-22",
       "director": "Denis Villeneuve",
       "price": 35000,
       "language": "English",
       "available": true,
       "trailerUrl": "https://www.youtube.com/watch?v=n9xhJrPXop4",
-      "schedule": [
-        "Monday",
-        "Thursday",
-        "Sunday"
-      ],
-      "showtimes": [
-        "11:00",
-        "14:30",
-        "18:00"
-      ],
+      "schedule": ["Monday", "Thursday", "Sunday"],
+      "showtimes": ["11:00", "14:30", "18:00"],
       "reviews": []
     },
     {
@@ -157,26 +103,15 @@
       "img": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
       "rating": 8.8,
       "duration": "2h 28m",
-      "genre": [
-        "Action",
-        "Sci-Fi",
-        "Thriller"
-      ],
+      "genre": ["Action", "Sci-Fi", "Thriller"],
       "releaseDate": "2010-07-16",
       "director": "Christopher Nolan",
       "price": 35000,
       "language": "English",
       "available": true,
       "trailerUrl": "https://www.youtube.com/watch?v=YoHD9XEInc0",
-      "schedule": [
-        "Friday",
-        "Saturday"
-      ],
-      "showtimes": [
-        "10:00",
-        "13:00",
-        "16:00"
-      ],
+      "schedule": ["Friday", "Saturday"],
+      "showtimes": ["10:00", "13:00", "16:00"],
       "reviews": []
     },
     {
@@ -186,27 +121,15 @@
       "img": "https://image.tmdb.org/t/p/w500/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
       "rating": 8.6,
       "duration": "2h 49m",
-      "genre": [
-        "Adventure",
-        "Drama",
-        "Sci-Fi"
-      ],
+      "genre": ["Adventure", "Drama", "Sci-Fi"],
       "releaseDate": "2014-11-07",
       "director": "Christopher Nolan",
       "price": 35000,
       "language": "English",
       "available": true,
       "trailerUrl": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
-      "schedule": [
-        "Monday",
-        "Wednesday",
-        "Saturday"
-      ],
-      "showtimes": [
-        "12:00",
-        "15:00",
-        "18:00"
-      ],
+      "schedule": ["Monday", "Wednesday", "Saturday"],
+      "showtimes": ["12:00", "15:00", "18:00"],
       "reviews": [
         {
           "user": "andi123",
@@ -214,7 +137,8 @@
           "rating": 9
         }
       ]
-    },
+    }
+  ],
   "users": [
     {
       "id": 1,
