@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Avengers: Endgame",
-      "desc": "Para Avengers bersatu untuk mengalahkan Thanos.",
+      "desc": "Setelah kehancuran besar yang disebabkan oleh Thanos, para Avengers yang tersisa bersatu kembali dan bekerja sama dengan sekutu lama maupun baru. Mereka berjuang keras melawan waktu untuk mengumpulkan Infinity Stones dan membalikkan efek jentikan Thanos demi menyelamatkan alam semesta. Di tengah pengorbanan, persahabatan, dan pertempuran epik, para pahlawan menghadapi ujian terberat dalam hidup mereka untuk memulihkan harapan umat manusia.",
       "img": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
       "rating": 8.4,
       "duration": "3h 1m",
@@ -27,7 +27,7 @@
     {
       "id": 2,
       "title": "Spider-Man: No Way Home",
-      "desc": "Spider-Man menghadapi tantangan multiverse.",
+      "desc": "Peter Parker harus menghadapi konsekuensi identitasnya yang terungkap ke dunia. Ia meminta bantuan Doctor Strange, namun sihir yang gagal justru membuka portal multiverse dan membawa musuh-musuh dari dunia lain ke realitasnya. Spider-Man harus bekerja sama dengan sekutu tak terduga untuk memperbaiki kerusakan, menghadapi musuh lama, dan belajar tentang arti menjadi seorang pahlawan sejati.",
       "img": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
       "rating": 8.2,
       "duration": "2h 28m",
@@ -45,7 +45,7 @@
     {
       "id": 3,
       "title": "Joker",
-      "desc": "Kisah kelam di balik sosok Joker.",
+      "desc": "Mengisahkan kehidupan Arthur Fleck, seorang komedian gagal yang terpinggirkan oleh masyarakat Gotham. Tekanan mental, kesepian, dan kekerasan sosial mendorongnya ke jurang kegilaan hingga akhirnya ia bertransformasi menjadi Joker, sosok ikonik kriminal yang menakutkan. Film ini mengeksplorasi sisi gelap psikologi manusia dan kritik sosial yang mendalam.",
       "img": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
       "rating": 8.5,
       "duration": "2h 2m",
@@ -63,7 +63,7 @@
     {
       "id": 4,
       "title": "The Batman",
-      "desc": "Batman menyelidiki korupsi di Gotham City.",
+      "desc": "Ketika serangkaian kejahatan misterius terjadi di Gotham City, Batman harus menyelidiki korupsi yang telah lama merajalela di kota tersebut. Dengan bantuan sekutu setianya, ia menghadapi musuh baru yang berbahaya dan mencoba mengungkap kebenaran di balik kekuasaan gelap yang mengancam kota. Kisah ini menampilkan sisi detektif Batman yang penuh ketegangan, aksi, dan drama.",
       "img": "https://image.tmdb.org/t/p/w500/3VFI3zbuNhXzx7dIbYdmvBLekyB.jpg",
       "rating": 8.0,
       "duration": "2h 56m",
@@ -81,7 +81,7 @@
     {
       "id": 5,
       "title": "Dune",
-      "desc": "Petualangan epik di planet Arrakis.",
+      "desc": "Di planet pasir Arrakis, Paul Atreides dan keluarganya harus menghadapi konflik politik dan bahaya besar demi menguasai sumber daya paling berharga di alam semesta, yaitu rempah-rempah melange. Petualangan epik ini membawa Paul ke perjalanan penemuan jati diri, peperangan, dan pertarungan melawan takdir di dunia yang keras dan penuh intrik.",
       "img": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
       "rating": 8.1,
       "duration": "2h 35m",
@@ -99,7 +99,7 @@
     {
       "id": 6,
       "title": "Inception",
-      "desc": "Pencurian rahasia melalui alam mimpi.",
+      "desc": "Dom Cobb adalah pencuri ulung yang memiliki kemampuan untuk masuk ke dalam mimpi orang lain dan mencuri rahasia dari alam bawah sadar. Namun, kali ini ia mendapatkan tugas sebaliknya: menanamkan sebuah ide ke dalam pikiran targetnya. Dalam misi yang penuh bahaya di dunia mimpi berlapis, Cobb dan timnya harus menghadapi tantangan psikologis dan emosional yang mengancam hidup mereka.",
       "img": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
       "rating": 8.8,
       "duration": "2h 28m",
@@ -117,7 +117,7 @@
     {
       "id": 7,
       "title": "Interstellar",
-      "desc": "Misi luar angkasa demi menyelamatkan umat manusia.",
+      "desc": "Ketika bumi di ambang kehancuran akibat krisis lingkungan, sekelompok ilmuwan dan astronot melakukan perjalanan antarbintang untuk mencari planet baru yang layak huni bagi umat manusia. Dengan dipenuhi pengorbanan, cinta, dan penjelajahan luar angkasa, misi ini menjadi perjuangan terakhir demi kelangsungan hidup generasi mendatang.",
       "img": "https://image.tmdb.org/t/p/w500/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
       "rating": 8.6,
       "duration": "2h 49m",
