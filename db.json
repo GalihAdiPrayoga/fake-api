@@ -217,224 +217,149 @@
     },
     {
       "id": 8,
-      "title": "Movie Title 8",
-      "desc": "Deskripsi film ke-8.",
-      "img": "https://via.placeholder.com/500x750?text=Movie+Poster",
-      "rating": 7.0,
-      "duration": "2h 44m",
-      "genre": [
-        "Drama",
-        "Mystery"
-      ],
-      "releaseDate": "2023-09-15",
-      "director": "Director 8",
-      "price": 35000,
-      "language": "English",
-      "available": true,
-      "trailerUrl": "https://www.youtube.com/watch?v=example",
-      "schedule": [
-        "Tuesday",
-        "Friday",
-        "Sunday"
-      ],
-      "showtimes": [
-        "10:30",
-        "13:30",
-        "17:00",
-        "20:00"
-      ],
-      "reviews": []
+        "title": "The Prestige",
+        "desc": "Dua pesulap bersaing dengan trik yang mematikan.",
+        "img": "https://image.tmdb.org/t/p/w500/5MXyQfz8xUP3dIFPTubhTsbFY6N.jpg",
+        "rating": 8.5,
+        "duration": "2h 10m",
+        "genre": ["Drama", "Mystery", "Sci-Fi"],
+        "releaseDate": "2006-10-20",
+        "director": "Christopher Nolan",
+        "price": 35000,
+        "language": "English",
+        "available": True,
+        "trailerUrl": "https://www.youtube.com/watch?v=o4gHCmTQDVI",
+        "schedule": ["Monday", "Wednesday", "Saturday"],
+        "showtimes": ["13:00", "16:00", "19:00"],
+        "reviews": []
     },
     {
-      "id": 9,
-      "title": "Movie Title 9",
-      "desc": "Deskripsi film ke-9.",
-      "img": "https://via.placeholder.com/500x750?text=Movie+Poster",
-      "rating": 7.3,
-      "duration": "3h 47m",
-      "genre": [
-        "Drama",
-        "Mystery"
-      ],
-      "releaseDate": "2021-010-15",
-      "director": "Director 9",
-      "price": 35000,
-      "language": "English",
-      "available": false,
-      "trailerUrl": "https://www.youtube.com/watch?v=example",
-      "schedule": [
-        "Coming Soon"
-      ],
-      "showtimes": [],
-      "reviews": []
+        "id": 9,
+        "title": "The Dark Knight",
+        "desc": "Batman menghadapi Joker yang kejam di Gotham.",
+        "img": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+        "rating": 9.0,
+        "duration": "2h 32m",
+        "genre": ["Action", "Crime", "Drama"],
+        "releaseDate": "2008-07-18",
+        "director": "Christopher Nolan",
+        "price": 35000,
+        "language": "English",
+        "available": True,
+        "trailerUrl": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
+        "schedule": ["Friday", "Saturday", "Sunday"],
+        "showtimes": ["14:00", "17:00", "20:00"],
+        "reviews": []
     },
     {
-      "id": 10,
-      "title": "Movie Title 10",
-      "desc": "Deskripsi film ke-10.",
-      "img": "https://via.placeholder.com/500x750?text=Movie+Poster",
-      "rating": 7.6,
-      "duration": "2h 50m",
-      "genre": [
-        "Drama",
-        "Mystery"
-      ],
-      "releaseDate": "2022-011-15",
-      "director": "Director 10",
-      "price": 35000,
-      "language": "English",
-      "available": true,
-      "trailerUrl": "https://www.youtube.com/watch?v=example",
-      "schedule": [
-        "Tuesday",
-        "Friday",
-        "Sunday"
-      ],
-      "showtimes": [
-        "10:30",
-        "13:30",
-        "17:00",
-        "20:00"
-      ],
-      "reviews": []
+        "id": 10,
+        "title": "Tenet",
+        "desc": "Seorang agen rahasia mencoba mencegah Perang Dunia III.",
+        "img": "https://image.tmdb.org/t/p/w500/k68nPLbIST6NP96JmTxmZijEvCA.jpg",
+        "rating": 7.8,
+        "duration": "2h 30m",
+        "genre": ["Action", "Sci-Fi", "Thriller"],
+        "releaseDate": "2020-08-26",
+        "director": "Christopher Nolan",
+        "price": 35000,
+        "language": "English",
+        "available": True,
+        "trailerUrl": "https://www.youtube.com/watch?v=L3pk_TBkihU",
+        "schedule": ["Tuesday", "Thursday"],
+        "showtimes": ["12:00", "15:00", "18:00"],
+        "reviews": []
     },
     {
-      "id": 11,
-      "title": "Movie Title 11",
-      "desc": "Deskripsi film ke-11.",
-      "img": "https://via.placeholder.com/500x750?text=Movie+Poster",
-      "rating": 7.9,
-      "duration": "3h 53m",
-      "genre": [
-        "Drama",
-        "Mystery"
-      ],
-      "releaseDate": "2023-012-15",
-      "director": "Director 11",
-      "price": 35000,
-      "language": "English",
-      "available": true,
-      "trailerUrl": "https://www.youtube.com/watch?v=example",
-      "schedule": [
-        "Tuesday",
-        "Friday",
-        "Sunday"
-      ],
-      "showtimes": [
-        "10:30",
-        "13:30",
-        "17:00",
-        "20:00"
-      ],
-      "reviews": []
+        "id": 11,
+        "title": "Oppenheimer",
+        "desc": "Kisah J. Robert Oppenheimer dan proyek Manhattan.",
+        "img": "https://image.tmdb.org/t/p/w500/ptpr0kGAckfQkJeJIt8st5dglvd.jpg",
+        "rating": 8.7,
+        "duration": "3h 0m",
+        "genre": ["Biography", "Drama", "History"],
+        "releaseDate": "2023-07-21",
+        "director": "Christopher Nolan",
+        "price": 35000,
+        "language": "English",
+        "available": True,
+        "trailerUrl": "https://www.youtube.com/watch?v=uYPbbksJxIg",
+        "schedule": ["Monday", "Friday", "Saturday"],
+        "showtimes": ["13:30", "17:00", "20:30"],
+        "reviews": []
     },
     {
-      "id": 12,
-      "title": "Movie Title 12",
-      "desc": "Deskripsi film ke-12.",
-      "img": "https://via.placeholder.com/500x750?text=Movie+Poster",
-      "rating": 7.0,
-      "duration": "2h 56m",
-      "genre": [
-        "Drama",
-        "Mystery"
-      ],
-      "releaseDate": "2021-01-15",
-      "director": "Director 12",
-      "price": 35000,
-      "language": "English",
-      "available": false,
-      "trailerUrl": "https://www.youtube.com/watch?v=example",
-      "schedule": [
-        "Coming Soon"
-      ],
-      "showtimes": [],
-      "reviews": []
+        "id": 12,
+        "title": "Dunkirk",
+        "desc": "Evakuasi tentara Sekutu dari Dunkirk selama PD II.",
+        "img": "https://image.tmdb.org/t/p/w500/ebSnODDg9lbsMIaWg2uAbjn7TO5.jpg",
+        "rating": 7.9,
+        "duration": "1h 46m",
+        "genre": ["Action", "Drama", "History"],
+        "releaseDate": "2017-07-21",
+        "director": "Christopher Nolan",
+        "price": 35000,
+        "language": "English",
+        "available": True,
+        "trailerUrl": "https://www.youtube.com/watch?v=F-eMt3SrfFU",
+        "schedule": ["Tuesday", "Thursday", "Sunday"],
+        "showtimes": ["11:00", "14:00", "17:00"],
+        "reviews": []
     },
     {
-      "id": 13,
-      "title": "Movie Title 13",
-      "desc": "Deskripsi film ke-13.",
-      "img": "https://via.placeholder.com/500x750?text=Movie+Poster",
-      "rating": 7.3,
-      "duration": "3h 59m",
-      "genre": [
-        "Drama",
-        "Mystery"
-      ],
-      "releaseDate": "2022-02-15",
-      "director": "Director 13",
-      "price": 35000,
-      "language": "English",
-      "available": true,
-      "trailerUrl": "https://www.youtube.com/watch?v=example",
-      "schedule": [
-        "Tuesday",
-        "Friday",
-        "Sunday"
-      ],
-      "showtimes": [
-        "10:30",
-        "13:30",
-        "17:00",
-        "20:00"
-      ],
-      "reviews": []
+        "id": 13,
+        "title": "Memento",
+        "desc": "Seorang pria dengan kehilangan ingatan jangka pendek mencari pembunuh istrinya.",
+        "img": "https://image.tmdb.org/t/p/w500/fQMSaP88cf1nz4qwuNEEFtazuDM.jpg",
+        "rating": 8.4,
+        "duration": "1h 53m",
+        "genre": ["Mystery", "Thriller"],
+        "releaseDate": "2000-10-11",
+        "director": "Christopher Nolan",
+        "price": 35000,
+        "language": "English",
+        "available": True,
+        "trailerUrl": "https://www.youtube.com/watch?v=0vS0E9bBSL0",
+        "schedule": ["Wednesday", "Saturday"],
+        "showtimes": ["12:00", "15:00", "18:00"],
+        "reviews": []
     },
     {
-      "id": 14,
-      "title": "Movie Title 14",
-      "desc": "Deskripsi film ke-14.",
-      "img": "https://via.placeholder.com/500x750?text=Movie+Poster",
-      "rating": 7.6,
-      "duration": "2h 62m",
-      "genre": [
-        "Drama",
-        "Mystery"
-      ],
-      "releaseDate": "2023-03-15",
-      "director": "Director 14",
-      "price": 35000,
-      "language": "English",
-      "available": true,
-      "trailerUrl": "https://www.youtube.com/watch?v=example",
-      "schedule": [
-        "Tuesday",
-        "Friday",
-        "Sunday"
-      ],
-      "showtimes": [
-        "10:30",
-        "13:30",
-        "17:00",
-        "20:00"
-      ],
-      "reviews": []
+        "id": 14,
+        "title": "Insomnia",
+        "desc": "Seorang detektif menyelidiki pembunuhan di Alaska di mana matahari tidak pernah terbenam.",
+        "img": "https://image.tmdb.org/t/p/w500/jX4nYSpK1uEFK8qfz3tUs6U95cT.jpg",
+        "rating": 7.2,
+        "duration": "1h 58m",
+        "genre": ["Mystery", "Thriller"],
+        "releaseDate": "2002-05-24",
+        "director": "Christopher Nolan",
+        "price": 35000,
+        "language": "English",
+        "available": False,
+        "trailerUrl": "https://www.youtube.com/watch?v=d4TkZkY5kGw",
+        "schedule": ["Coming Soon"],
+        "showtimes": [],
+        "reviews": []
     },
     {
-      "id": 15,
-      "title": "Movie Title 15",
-      "desc": "Deskripsi film ke-15.",
-      "img": "https://via.placeholder.com/500x750?text=Movie+Poster",
-      "rating": 7.9,
-      "duration": "3h 65m",
-      "genre": [
-        "Drama",
-        "Mystery"
-      ],
-      "releaseDate": "2021-04-15",
-      "director": "Director 15",
-      "price": 35000,
-      "language": "English",
-      "available": false,
-      "trailerUrl": "https://www.youtube.com/watch?v=example",
-      "schedule": [
-        "Coming Soon"
-      ],
-      "showtimes": [],
-      "reviews": []
+        "id": 15,
+        "title": "Following",
+        "desc": "Seorang penulis mengikuti orang asing dan terseret ke dunia kriminal.",
+        "img": "https://image.tmdb.org/t/p/w500/wvtIhRmT0akZHF7sVq19IxW24nK.jpg",
+        "rating": 7.5,
+        "duration": "1h 9m",
+        "genre": ["Crime", "Drama", "Thriller"],
+        "releaseDate": "1998-09-12",
+        "director": "Christopher Nolan",
+        "price": 35000,
+        "language": "English",
+        "available": False,
+        "trailerUrl": "https://www.youtube.com/watch?v=5_pEcZz-1dM",
+        "schedule": ["Coming Soon"],
+        "showtimes": [],
+        "reviews": []
     }
-  ],
+],
   "users": [
     {
       "id": 1,
