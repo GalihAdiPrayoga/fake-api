@@ -130,11 +130,6 @@
       "trailerUrl": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
       "schedule": ["Monday", "Wednesday", "Saturday"],
       "showtimes": ["12:00", "15:00", "18:00"],
-      "reviews": [
-        {
-          "user": "andi123",
-          "comment": "Mindblowing!",
-          "rating": 9
         },
     {
       "id": 8,
